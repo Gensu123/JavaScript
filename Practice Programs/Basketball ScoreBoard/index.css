@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+
+#homePoints , #guestPoints{
+        display: block;
+        text-align: center;
+        font-size: 50px;
+}
+.Points {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+  }  
+
+.resetButton{
+    display: flex;
+    align-items: center;
+    width: 000px;
+
+    
+
+}
